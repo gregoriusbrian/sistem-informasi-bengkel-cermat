@@ -421,8 +421,6 @@ class _DashboardScreenState extends State<DashboardScreen>
         return Icons.bar_chart;
       case 4:
         return Icons.settings;
-      default:
-        return Icons.home;
     }
   }
 }
